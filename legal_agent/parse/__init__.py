@@ -1,0 +1,1 @@
+"""Parsing helpers for PDFs, DOCX, OCR, and clause segmentation."""
